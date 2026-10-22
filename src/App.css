@@ -1,6 +1,38 @@
 @import "tailwindcss";
 
 body {
-  background-color: #170e07;
+  background-color: #000000;
   overflow-x: hidden;
+}
+
+.jetbrains-mono-uniquifier {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+
+/* start */
+.bg-start {
+  background-color: #ffde42;
+}
+.color-text1 {
+  color: #ffde42;
+}
+
+.animacion-slider-right {
+  animation-name: toRight;
+  animation-duration: 0.6s; /* Reduje un poco el tiempo para que sea más fluido, puedes dejarlo en 2s si prefieres */
+  animation-fill-mode: forwards;
+}
+
+@keyframes toRight {
+  from {
+    right: -100%; /* Empieza desde la derecha fuera de la pantalla */
+    opacity: 0;
+  }
+  to {
+    right: 0%;
+    opacity: 1;
+  }
 }

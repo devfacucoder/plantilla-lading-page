@@ -1,9 +1,11 @@
+
+import Location from "../components/layout/Location"
 function SobreMi() {
-    return (  
-         <section className="w-screen min-h-screen bg-yellow-800">
-            sobre mi
-        </section>
-    );
+  return (
+    <section id="contacto" className="scroll-mt-20 w-full min-h-screen bg-black">
+      <Location/>
+    </section>
+  );
 }
 
 export default SobreMi;

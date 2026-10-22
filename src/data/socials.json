@@ -1,0 +1,31 @@
+{
+  "whasapp": {
+    "link": "https://api.whatsapp.com/send/?phone=542645701046&text=Hola%29&type=phone_number&app_absent=0"
+  },
+  "redes": [
+    {
+      "nombre": "Instagram",
+      "usuario": "@ccmotos",
+      "icono": "instagram",
+      "url": "https://www.instagram.com/ccmotos"
+    },
+    {
+      "nombre": "TikTok",
+      "usuario": "@ccmotos",
+      "icono": "tiktok",
+      "url": "https://www.tiktok.com/@ccmotos"
+    },
+    {
+      "nombre": "WhatsApp",
+      "usuario": "+54 9 11 1234-5678",
+      "icono": "whatsapp",
+      "url": "https://wa.me/5491112345678"
+    },
+    {
+      "nombre": "Email",
+      "usuario": "contacto@ccmotos.com",
+      "icono": "email",
+      "url": "mailto:contacto@ccmotos.com"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  
+  "motos": [
+    {
+      "id": "zanella-rx-150",
+      "nombre": "Zanella RX 150",
+      "categoria": "Calle / Urbana",
+      "precio": "12x $110.000",
+      "imagen": "/products-image/zanella-rx.jpg",
+      "condicion": "Cuotas fijas / Entrega inmediata",
+      "destacada": true,
+      "carrusel": false
+    },
+    {
+      "id": "yamaha-yzf-r3",
+      "nombre": "S3 150 2020",
+      "categoria": "Deportiva",
+      "precio": "18x $185.000",
+      "imagen": "https://i.pinimg.com/1200x/a4/c0/cf/a4c0cf801ce04c0214d0540df7d849db.jpg",
+      "condicion": "Cuotas fijas / Entrega inmediata",
+      "destacada": false,
+      "carrusel": true
+    },
+    {
+      "id": "ktm-duke-390",
+      "nombre": "KTM Duke 390",
+      "categoria": "Naked",
+      "precio": "18x $210.000",
+      "imagen": "https://i.pinimg.com/1200x/59/03/de/5903dec72c5d9792b33cfc017bd36759.jpg",
+      "condicion": "Cuotas fijas / Entrega inmediata",
+      "destacada": false,
+      "carrusel": true
+    },
+    {
+      "id": "honda-cb650r",
+      "nombre": "Honda CB650R",
+      "categoria": "Neo Sports",
+      "precio": "24x $265.000",
+      "imagen": "https://i.pinimg.com/1200x/3e/17/c8/3e17c89474e214e3f9145a322199d8fc.jpg",
+      "condicion": "Cuotas fijas / Entrega inmediata",
+      "destacada": false,
+      "carrusel": true
+    }
+  ]
+}
